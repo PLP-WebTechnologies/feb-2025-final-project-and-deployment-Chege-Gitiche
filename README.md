@@ -6,7 +6,7 @@ This is a **responsive and interactive multi-page blog website** built using **H
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live Website](https://your-live-site-link.com)
+👉 [Visit the Live Website](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Chege-Gitiche/)
 
 > _Deployed using_ **GitHub Pages**, **Netlify**, or **Vercel**
 
